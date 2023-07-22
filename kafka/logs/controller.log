@@ -43,3 +43,5 @@ java.io.IOException: Connection to harmeet-HP-EliteBook-840-G5:9092 (id: 0 rack:
 [2023-07-22 14:46:22,457] TRACE [Controller id=0] Checking need to trigger auto leader balancing (kafka.controller.KafkaController)
 [2023-07-22 14:51:22,461] INFO [Controller id=0] Processing automatic preferred replica leader election (kafka.controller.KafkaController)
 [2023-07-22 14:51:22,462] TRACE [Controller id=0] Checking need to trigger auto leader balancing (kafka.controller.KafkaController)
+[2023-07-22 14:56:22,463] INFO [Controller id=0] Processing automatic preferred replica leader election (kafka.controller.KafkaController)
+[2023-07-22 14:56:22,463] TRACE [Controller id=0] Checking need to trigger auto leader balancing (kafka.controller.KafkaController)
