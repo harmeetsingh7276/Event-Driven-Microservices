@@ -27,3 +27,7 @@
 [2023-07-22 15:51:22,487] TRACE [Controller id=0] Leader imbalance ratio for broker 0 is 0.0 (kafka.controller.KafkaController)
 [2023-07-22 15:51:30,246] DEBUG [Controller id=0] There is no producerId block yet (Zk path version 0), creating the first block (kafka.controller.KafkaController)
 [2023-07-22 15:51:30,252] INFO [Controller id=0] Acquired new producerId block ProducerIdsBlock(assignedBrokerId=0, firstProducerId=0, size=1000) by writing to Zk with path version 1 (kafka.controller.KafkaController)
+[2023-07-22 15:56:22,488] INFO [Controller id=0] Processing automatic preferred replica leader election (kafka.controller.KafkaController)
+[2023-07-22 15:56:22,488] TRACE [Controller id=0] Checking need to trigger auto leader balancing (kafka.controller.KafkaController)
+[2023-07-22 15:56:22,489] DEBUG [Controller id=0] Topics not in preferred replica for broker 0 Map() (kafka.controller.KafkaController)
+[2023-07-22 15:56:22,489] TRACE [Controller id=0] Leader imbalance ratio for broker 0 is 0.0 (kafka.controller.KafkaController)
